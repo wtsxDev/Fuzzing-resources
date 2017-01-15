@@ -1,7 +1,7 @@
-Welcome to Awesome Fuzzing [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](http://kalitut.com)
+Welcome to Awesome Fuzzing
+[![Awesome](https://1.bp.blogspot.com/-3jG9st185X0/WHtn_OoNjKI/AAAAAAAAB0A/8Q-wyDWDukEev71mbTT8MJ2h_GeFhTEPgCLcB/s1600/fuzzing%2Bresources.png)](http://kalitut.com)
 ===================
-<div class="separator" style="clear: both; text-align: center;">
-<img border="0" src="https://1.bp.blogspot.com/-3jG9st185X0/WHtn_OoNjKI/AAAAAAAAB0A/8Q-wyDWDukEev71mbTT8MJ2h_GeFhTEPgCLcB/s1600/fuzzing%2Bresources.png" width="400" height="210" /></a></div>
+
 A curated list of fuzzing resources ( Books, courses - free and paid, videos, tools, tutorials and vulnerable applications to practice on ) for learning Fuzzing and initial phases of Exploit Development like root cause analysis.
 
 ### Table of Contents
