@@ -317,4 +317,10 @@ https://files.fuzzing-project.org/
 
 [Introduction to Anti-Fuzzing: A Defence In-Depth Aid](https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2014/january/introduction-to-anti-fuzzing-a-defence-in-depth-aid/)
 
+Please have a look at
+* [Best Hacking Books](http://www.kalitut.com/2016/12/best-ethical-hacking-books.html)
+* [Best Reverse Engineering Books](http://www.kalitut.com/2017/01/Best-reverse-engineering-books.html)
+* [Best Machine learning Books](http://www.kalitut.com/2017/01/machine-learning-book.html)
+* [Best 5 books Programming Books](http://www.kalitut.com/2017/01/Top-Programming-Books.html)
+* [Best Java Books](http://www.kalitut.com/2017/01/Best-Java-Programming-Books.html)
 
